@@ -79,8 +79,7 @@ I’m passionate about building intelligent real-world applications using:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* LinkedIn: https://www.linkedin.com/in/v-guruprasad-87bab2387/
 
 ---
 
